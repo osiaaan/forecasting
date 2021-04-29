@@ -1,10 +1,5 @@
 import numpy as np
 
-from tensorflow.keras import Sequential
-from tensorflow.keras.layers import Dense
-import tensorflow as tf
-from tensorflow.keras import losses
-from tensorflow.keras import metrics
 
 def split_sequence(sequence, n_steps_in, n_steps_out):
     '''
