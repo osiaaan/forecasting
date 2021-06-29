@@ -1,5 +1,8 @@
-# forecasting
+# Forecasting
 
-Some python notebooks for forecasting
+Python notebooks for forecasting.
+Mainly an exercise in using different types of neural networks in TensorFlow.
 
-Note: RNN model doesn't work atm
+The Folder 'Working' contains (essentially) complete examples.
+
+The Folder 'Testing' contains draft examples.
